@@ -1,0 +1,3 @@
+database=default_db
+user=default_user
+password=qwerty

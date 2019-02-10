@@ -1,0 +1,3 @@
+database=test_db
+user=test_user
+password=12345
