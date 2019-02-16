@@ -48,6 +48,7 @@ public class WordCounter {
     private List<String> getWords() {
         List<String> words = new ArrayList<>();
         for (String s : fileContent) {
+            s = s.toLowerCase();
             String[] tmp = s.split("[  , : ; ! . ( ) ?  ,]");
             List<String> lineWords = Arrays.asList(tmp);
             words.addAll(lineWords);
@@ -59,14 +60,14 @@ public class WordCounter {
     public Map<String, Integer> countDuplicatedWords() {
         Map<String, Integer> duplicatedWords = new HashMap<>();
         List<String> wordsList = getWords();
-        for (String word:wordsList) {
+        for (String word : wordsList) {
             if (duplicatedWords.get(word) != null) {
                 duplicatedWords.replace(word, duplicatedWords.get(word) + 1);
             } else {
                 duplicatedWords.put(word, 1);
             }
         }
-        duplicatedWords.entrySet().removeIf(e -> e.getValue()==1);
+        duplicatedWords.entrySet().removeIf(e -> e.getValue() == 1);
         return duplicatedWords;
     }
 }

@@ -2,74 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902e181e-7404-43b4-900f-6c45361d3045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task1/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task1/BuildingType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task1/MissingDayOfWeekException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task1/OpeningHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task1/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task1/TimeRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/WordCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/CollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/CollectionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/Dell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/Dell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/MainEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/MainEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/Dyrektor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/Dyrektor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/GabinetDyrektora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/GabinetDyrektora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/Nauczyciel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/Nauczyciel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/PokojNauczycielski.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/PokojNauczycielski.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/PomieszczenieGospodarcze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/PomieszczenieGospodarcze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/Pracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/Pracownik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/Sala.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/Sala.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/SalaLekcyjna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/SalaLekcyjna.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/Szatnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/Szatnia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/Szkola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/Szkola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/Uczen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/Uczen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task2/Wozny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task2/Wozny.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task3.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task3/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task3/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/homework/task3/Ships.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/homework/task3/Ships.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw1/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw1/Tv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw2/WashingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw2/WashingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw3/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw3/IntArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw4/Handheld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw4/Handheld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw4/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw4/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw5/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw5/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw5/Cherry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw5/Cherry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw5/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw5/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw5/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw5/Orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw6/Grzyb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw6/Grzyb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw6/Muchomor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw6/Muchomor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw6/Pieczarka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw6/Pieczarka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task1/cw6/Prawdziwek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task1/cw6/Prawdziwek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw1_Interfejsy/ImplementacjaInterfejsu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw1_Interfejsy/ImplementacjaInterfejsu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw1_Interfejsy/Interface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw1_Interfejsy/Interface2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw1_Interfejsy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw1_Interfejsy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw1_Interfejsy/PrzykladInterfejsu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw1_Interfejsy/PrzykladInterfejsu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw2_interfejsy2/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw2_interfejsy2/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw2_interfejsy2/Jadalny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw2_interfejsy2/Jadalny.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw2_interfejsy2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw2_interfejsy2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw2_interfejsy2/Pieczarka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw2_interfejsy2/Pieczarka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z4_03_02_2019/task2/Cw2_interfejsy2/Prawdziwek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z5_09_02_2019/przypomnienie/third/z4_03_02_2019/task2/Cw2_interfejsy2/Prawdziwek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z6_10_02_2019/homework/task3/Kantor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z6_10_02_2019/homework/task3/Kantor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plik.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plik.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z4_03_02_2019/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z4_03_02_2019/Dell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z4_03_02_2019/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z4_03_02_2019/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z4_03_02_2019/MainEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/WordCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/WordCounter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -93,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/WordCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+            <state relative-caret-position="265">
+              <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#991#992#0" expanded="true" />
@@ -332,7 +266,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550326434397" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550328045649" />
     <property name="last.edited.regexp" value="Ala ma kkota&#10;asd&#10;,asd&#10;,,adsd3,&#10;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -834,16 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Predicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -853,11 +777,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/WordCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+        <state relative-caret-position="265">
+          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#991#992#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
