@@ -67,7 +67,23 @@ public class WordCounter {
                 duplicatedWords.put(word, 1);
             }
         }
-        duplicatedWords.entrySet().removeIf(e -> e.getValue() == 1);
+        //TODO: zrob kawe
+        /*for (Map.Entry<String, Integer> kv: duplicatedWords.entrySet()){
+            if (kv.getValue() == 1){
+                duplicatedWords.remove(kv.getKey());                            /// NIE DZIALA
+            }
+        }*/
+
+        duplicatedWords.entrySet().removeIf(e -> e.getValue() == 1);          /// DZIALA !
+
+        /*Iterator<Map.Entry<String, Integer>> iterator = duplicatedWords.entrySet().iterator();
+        while (iterator.hasNext()){
+            Map.Entry<String, Integer> nextKeyValue = iterator.next();          /// TEZ DZIALA
+            if (nextKeyValue.getValue() == 1){
+                iterator.remove();
+            }
+        }*/
+
         return duplicatedWords;
     }
 }
