@@ -16,20 +16,18 @@ public class Pesel {
     public void validatePesel(){
         setPesel();
         int[] peselArr = new int[pesel.length()];
+        int[] wagi = {1, 3, 7, 9, 1, 3, 7, 9, 1, 3};
         int sum=0;
         for (int i =0; i < pesel.length(); i++){
             peselArr[i] = Integer.parseInt(Character.toString(pesel.charAt(i)));
         }
         //System.out.println(Arrays.toString(peselArr));
         int[] copyPeselArr = peselArr;
-        copyPeselArr[1] = copyPeselArr[1]*3;
-        copyPeselArr[2] = copyPeselArr[2]*7;
-        copyPeselArr[3] = copyPeselArr[3]*9;
-        copyPeselArr[5] = copyPeselArr[5]*3;
-        copyPeselArr[6] = copyPeselArr[6]*7;
-        copyPeselArr[7] = copyPeselArr[7]*9;
-        copyPeselArr[9] = copyPeselArr[9]*3;
-        //System.out.println(Arrays.toString(copyPeselArr));
+//
+        for (int i = 0; i < wagi.length; i++){
+            copyPeselArr[i] = copyPeselArr[i]*wagi[i];
+        }
+
         for (int i = 0; i < peselArr.length-1;i++){
             sum = sum+copyPeselArr[i];
         }

@@ -1,9 +1,6 @@
 package pl.sda.kurs.z10_03_03_2019.task1;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
 
 public class Methods {
     public double szescian(double a) {
@@ -84,12 +81,15 @@ public class Methods {
     public void task10() {
         Random g = new Random();
         int tmp = 10 + g.nextInt(1000);
-        int wynik = 0;
         System.out.println("Wylosoewana liczba: " + tmp);
-        while (tmp != 0) {
-            wynik += tmp % 10;
-            tmp /= 10;
-        }
+
+        String stringZLiczby = Integer.toString(tmp);
+
+        int wynik = Arrays.stream(stringZLiczby.split(""))
+                .map(Integer::valueOf)
+                .reduce((x, y) -> x + y)
+                .get();
+
         System.out.println("Suma jej cyfr to: " + wynik);
     }
 

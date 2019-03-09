@@ -1,0 +1,3 @@
+Polska:Warszawa
+Niemcy:Berlin
+Rosja:Moskwa
