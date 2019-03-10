@@ -1,7 +1,7 @@
 package pl.sda.kurs.z11_09_03_2019.lambdas;
 
 
-
+import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.*;
@@ -85,13 +85,9 @@ public class Functional {
      * Z zadanego zdania usunać wyrazy o określonej długości.
      */
     public String removeWordOfLength(String input, int length) {
-        return Stream.of(input)
-                .map(x -> x.split(" "))
-                .filter(x -> x.length != 3)
-                .collect(Collectors.joining());
-
-
-
+        return Arrays.stream(input.split(" "))
+                .filter(x->x.length()!=length)
+                .collect(Collectors.joining(" "));
     }
 
     /**
@@ -100,6 +96,7 @@ public class Functional {
     public String removeNumbers(String input) {
         return Stream.of(input)
                 .map(line -> line.replaceAll("\\d", ""))
+                .map(line->line.replaceAll("  ", " "))
                 .collect(Collectors.joining(""));
     }
 

@@ -17,7 +17,6 @@ public class T6 {
         Stream<String> lines = Files.lines(path);
         List<PanstwoMiasto> lista;
         Scanner s = new Scanner(System.in);
-        String panstwo;
 
         lista = lines.map(line -> line.split(":"))
                 .map(arr -> new PanstwoMiasto(arr[0], arr[1]))
