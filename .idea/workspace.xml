@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902e181e-7404-43b4-900f-6c45361d3045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z12_10_03_2019/KalkulatorZKolejnoscia.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z12_10_03_2019/KalkulatorZKolejnoscia.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,11 +21,20 @@
     <splitter split-orientation="horizontal" split-proportion="0.6274228">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task1.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="238">
-                  <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+                  <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task2.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
                 </state>
               </provider>
             </entry>
@@ -88,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/ThreadExample2.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/task1/OtherClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/task1/SomeClass.java" />
@@ -139,6 +146,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task2.java" />
       </list>
     </option>
   </component>
@@ -246,45 +254,6 @@
               <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="KursJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z13_16_03_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="algoritms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z13_16_03_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="algoritms" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z13_16_03_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="algoritms" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -367,7 +336,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552726080471" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552726400380" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last.edited.regexp" value="Ala ma kkota&#10;asd&#10;,asd&#10;,,adsd3,&#10;" />
@@ -405,13 +374,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="KalkulatorZKolejnoscia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z12_10_03_2019.KalkulatorZKolejnoscia" />
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z13_16_03_2019.Task1" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z12_10_03_2019.*" />
+          <option name="PATTERN" value="pl.sda.kurs.z13_16_03_2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,8 +388,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z13_16_03_2019.Task1" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z13_16_03_2019.Task2" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
@@ -481,11 +450,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="JUnit.SortingTest.createRandomArray" />
         <item itemvalue="JUnit.SortingTest.testSortComparable" />
         <item itemvalue="JUnit.SortingTest" />
-        <item itemvalue="Application.KalkulatorZKolejnoscia" />
       </list>
     </recent_temporary>
   </component>
@@ -500,6 +469,14 @@
       <option name="presentableId" value="Default" />
       <updated>1549810071961</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task1 completed">
+      <created>1552726111597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552726111597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -621,16 +598,10 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/KursJava" />
     </ignored-roots>
+    <MESSAGE value="Task1 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task1 completed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task2/2_Zadania_rekurencja.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/lambdas/d.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z8_17_02_2019/watki_thread/task1/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1086,7 +1057,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
         </state>
       </provider>
     </entry>
