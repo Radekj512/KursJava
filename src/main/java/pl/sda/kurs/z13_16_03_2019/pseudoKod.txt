@@ -1,0 +1,27 @@
+T1:
+wczytaj a
+wczytaj b
+wypisz a+b
+
+T2:
+wczytaj a
+if a>0
+    then zwroc a
+    else zwroc a*-1
+
+T3:
+wczytaj a
+silnia <- 1
+for i <- 1 to a do
+    silnia <- silnia * i
+zwroc silnia
+
+T4:
+wczytaj a
+czyPierwsza <- true;
+if a > 0
+    then for i <- 1 to a do
+        if a mod i != 0
+           then czyPierwsza <- false
+    else zwroc false
+zwroc czyPierwsza
