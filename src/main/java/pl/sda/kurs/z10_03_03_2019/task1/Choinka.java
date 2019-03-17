@@ -25,7 +25,7 @@ public class Choinka {
         for (int i = 0; i < rows; i++) {
             sb.append(printBlankSpaces(rows, i));
             sb.append(printBranches(i + 1));
-            sb.append(printBlankSpaces(rows, i));
+            //sb.append(printBlankSpaces(rows, i));
             sb.append("\n");
         }
 
@@ -53,7 +53,7 @@ public class Choinka {
     }
 
     public static void main(String[] args) {
-        rysujChoinke(10);
+        rysujChoinke(5);
     }
 
 }
