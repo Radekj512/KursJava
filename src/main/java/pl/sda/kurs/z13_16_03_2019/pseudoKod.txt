@@ -1,10 +1,10 @@
 T1:
-wczytaj a
-wczytaj b
+wczytaj int a
+wczytaj int b
 wypisz a+b
 
 T2:
-wczytaj a
+wczytaj int a
 if a>0
     then zwroc a
     else zwroc a*-1
@@ -22,6 +22,6 @@ czyPierwsza <- true;
 if a > 0
     then for i <- 1 to a do
         if a mod i != 0
-           then czyPierwsza <- false
+           retrun false
     else zwroc false
 zwroc czyPierwsza
