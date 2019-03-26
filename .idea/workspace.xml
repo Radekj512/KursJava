@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="902e181e-7404-43b4-900f-6c45361d3045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/1_Zadania_collections.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/DoublyLinked/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/KalkulatorZKolejnoscia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Kolejka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task1/Stos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task2/Stos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z12_10_03_2019/Task3Test.java" afterDir="false" />
+    <list default="true" id="902e181e-7404-43b4-900f-6c45361d3045" name="Default Changelist" comment="Task2 completed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Zadania_Schemat_NS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Zadania_pseudo_kod.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/Zadania.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/BankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Employer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Jedzenie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Kot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Pies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Ptak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Ryba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Zwierze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingChecks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z13_16_03_2019/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z13_16_03_2019/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/Sorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/data/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingChecks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/lambdas/Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/lambdas/Functional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T6/T6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T6/T6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z11_09_03_2019/task1/T6/T6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z11_09_03_2019/task1/T6/T6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/pseudoKod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/pseudoKod.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,60 +56,112 @@
     <favorites_list name="KursJava" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.65665233">
+    <splitter split-orientation="horizontal" split-proportion="0.57171714">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/DoublyLinked/DoublyLinkedList.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Jedzenie.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Kolejka.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" selection-start-line="13" selection-end-line="13" />
+                <state relative-caret-position="187">
+                  <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
                   <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#195#196#0" expanded="true" />
-                    <element signature="e#230#231#0" expanded="true" />
-                    <element signature="e#286#287#0" expanded="true" />
-                    <element signature="e#308#309#0" expanded="true" />
-                    <element signature="e#344#345#0" expanded="true" />
-                    <element signature="e#375#376#0" expanded="true" />
-                    <element signature="e#414#415#0" expanded="true" />
-                    <element signature="e#438#439#0" expanded="true" />
-                    <element signature="e#474#475#0" expanded="true" />
-                    <element signature="e#520#521#0" expanded="true" />
-                    <element signature="e#561#562#0" expanded="true" />
+                    <element signature="e#294#295#0" expanded="true" />
+                    <element signature="e#327#328#0" expanded="true" />
+                    <element signature="e#356#357#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task6.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Osoba.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="850">
-                  <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+                <state relative-caret-position="367">
+                  <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#291#292#0" expanded="true" />
+                    <element signature="e#323#324#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" selection-start-line="15" selection-end-line="15" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/KalkulatorZKolejnoscia.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Zwierze.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+                <state relative-caret-position="170">
+                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
                   <folding>
-                    <element signature="imports" expanded="true" />
+                    <element signature="e#136#137#0" expanded="true" />
+                    <element signature="e#172#173#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Kot.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" selection-start-line="12" selection-end-line="12" />
+                  <folding>
+                    <element signature="e#129#130#0" expanded="true" />
+                    <element signature="e#165#166#0" expanded="true" />
+                    <element signature="e#329#330#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Pies.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
+                  <folding>
+                    <element signature="e#130#131#0" expanded="true" />
+                    <element signature="e#166#167#0" expanded="true" />
+                    <element signature="e#325#326#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Ptak.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+                  <folding>
+                    <element signature="e#130#131#0" expanded="true" />
+                    <element signature="e#166#167#0" expanded="true" />
+                    <element signature="e#281#282#0" expanded="true" />
+                    <element signature="e#324#325#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Ryba.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+                  <folding>
+                    <element signature="e#130#131#0" expanded="true" />
+                    <element signature="e#166#167#0" expanded="true" />
+                    <element signature="e#293#294#0" expanded="true" />
+                    <element signature="e#336#337#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -96,7 +172,7 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/1_Zadania_collections.md">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/Zadania.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SECOND">
                   <first_editor />
@@ -113,11 +189,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,47 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/MoreRestrictiveGenericClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/GenericMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/task1/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/task1/QuickList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/ThreadExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/ThreadExample2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/task1/OtherClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/task1/SomeClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/watki_thread/task1/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/zapisDoPliku/SaveToFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/zapisDoPliku/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/lambda_and_stream/Lambdas/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/Task6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/Choinka.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task3/T1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task3/T2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task3/T3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task3/T4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task3/T5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task3/T6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/Methods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task2/T1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task2/T2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/Pesel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task2/T3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/sda/kurs/zadania_0903/lambdas/FunctionalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T6/PanstwoMiasto.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/stolice.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/Kolo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z11_09_03_2019/lambdas/FunctionalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/lambdas/Functional.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T6/T6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task2/Stos.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task2/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task3.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z12_10_03_2019/Task3Test.java" />
@@ -176,6 +216,47 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task6.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task7.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/KalkulatorZKolejnoscia.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingChecks.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/pseudoKod.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/data/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Zadania.md" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Check.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Field.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Shop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/BankCard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/DebitCard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/CreditCard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Bank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Employer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/jedzenie/Jedzenie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/zwierze/Zwierze.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/zwierze/Kot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/zwierze/Pies.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/zwierze/Ptak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/zwierze/Ryba.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Kot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Pies.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Ptak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Ryba.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Jedzenie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Osoba.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Zwierze.java" />
       </list>
     </option>
   </component>
@@ -216,6 +297,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,7 +359,7 @@
               <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="sda" type="462c0819:PsiDirectoryNode" />
               <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z12_10_03_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="z14_17_03_2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
@@ -288,90 +370,19 @@
               <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="sda" type="462c0819:PsiDirectoryNode" />
               <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z12_10_03_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Task2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z11_09_03_2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z11_09_03_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="z14_17_03_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552229257266" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552834656020" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last.edited.regexp" value="Ala ma kkota&#10;asd&#10;,asd&#10;,,adsd3,&#10;" />
@@ -386,15 +397,18 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="pl.sda.kurs.z12_10_03_2019" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sda.kurs.z14_17_03_2019.task1" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projekty_java\KursJava\src\main\java\pl\sda\kurs\z14_17_03_2019" />
+      <recent name="D:\Projekty_java\KursJava\src\test\java\pl\sda\kurs\z13_16_03_2019" />
+      <recent name="D:\Projekty_java\KursJava\src\main\java\pl\sda\kurs\z13_16_03_2019" />
       <recent name="D:\Projekty_java\KursJava\src\main\java\pl\sda\kurs\z12_10_03_2019" />
       <recent name="D:\Projekty_java\KursJava\src\main\java\pl\sda\kurs\z11_09_03_2019\lambdas" />
-      <recent name="D:\Projekty_java\KursJava\src\test\java\pl\sda\kurs" />
-      <recent name="D:\Projekty_java\KursJava\src\test\java" />
-      <recent name="D:\Projekty_java\KursJava\src\main\java\pl\sda\kurs\z11_09_03_2019\task1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -409,13 +423,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KalkulatorZKolejnoscia">
-    <configuration name="KalkulatorZKolejnoscia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z12_10_03_2019.KalkulatorZKolejnoscia" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z14_17_03_2019.KolkoIKrzyzyk.Main" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z12_10_03_2019.*" />
+          <option name="PATTERN" value="pl.sda.kurs.z14_17_03_2019.KolkoIKrzyzyk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,12 +437,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z12_10_03_2019.Task4" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z14_17_03_2019.task2.Main" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z12_10_03_2019.*" />
+          <option name="PATTERN" value="pl.sda.kurs.z14_17_03_2019.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,12 +450,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z12_10_03_2019.Task6" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z14_17_03_2019.task1.Main1" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z12_10_03_2019.*" />
+          <option name="PATTERN" value="pl.sda.kurs.z14_17_03_2019.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,12 +463,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z12_10_03_2019.Task7" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z14_17_03_2019.task1.Main2" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z12_10_03_2019.*" />
+          <option name="PATTERN" value="pl.sda.kurs.z14_17_03_2019.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,28 +476,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z13_16_03_2019.Task3" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z12_10_03_2019.*" />
+          <option name="PATTERN" value="pl.sda.kurs.z13_16_03_2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sda.kurs.z12_10_03_2019" />
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z12_10_03_2019.Task3Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KalkulatorZKolejnoscia" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="JUnit.Task3Test" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -498,38 +510,53 @@
       <option name="presentableId" value="Default" />
       <updated>1549810071961</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task1 completed">
+      <created>1552726111597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552726111597</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task2 completed">
+      <created>1552726418171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552726418171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FunctionalTest - 2019.03.09 at 14h 48m 57s.xml">
-      <configuration name="FunctionalTest" configurationId="JUnit" />
+    <history-entry file="SortingTest_testSortStrings - 2019.03.16 at 13h 20m 15s.xml">
+      <configuration name="SortingTest.testSortStrings" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionalTest - 2019.03.09 at 14h 53m 18s.xml">
-      <configuration name="FunctionalTest" configurationId="JUnit" />
+    <history-entry file="SortingTest - 2019.03.16 at 13h 24m 35s.xml">
+      <configuration name="SortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionalTest - 2019.03.09 at 14h 59m 20s.xml">
-      <configuration name="FunctionalTest" configurationId="JUnit" />
+    <history-entry file="SortingTest - 2019.03.16 at 13h 25m 19s.xml">
+      <configuration name="SortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionalTest - 2019.03.09 at 15h 10m 49s.xml">
-      <configuration name="FunctionalTest" configurationId="JUnit" />
+    <history-entry file="SortingTest_testEdgeCasesQuickSort - 2019.03.16 at 13h 25m 47s.xml">
+      <configuration name="SortingTest.testEdgeCasesQuickSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionalTest_testRemoveWordOfLength2 - 2019.03.09 at 15h 11m 12s.xml">
-      <configuration name="FunctionalTest.testRemoveWordOfLength2" configurationId="JUnit" />
+    <history-entry file="SortingTest_testEdgeCasesMergeSort - 2019.03.16 at 13h 30m 25s.xml">
+      <configuration name="SortingTest.testEdgeCasesMergeSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionalTest - 2019.03.09 at 15h 11m 18s.xml">
-      <configuration name="FunctionalTest" configurationId="JUnit" />
+    <history-entry file="SortingTest_testEdgeCasesMergeSort - 2019.03.16 at 13h 30m 53s.xml">
+      <configuration name="SortingTest.testEdgeCasesMergeSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionalTest - 2019.03.09 at 15h 12m 14s.xml">
-      <configuration name="FunctionalTest" configurationId="JUnit" />
+    <history-entry file="SortingTest_testEdgeCasesQuickSort - 2019.03.16 at 13h 31m 11s.xml">
+      <configuration name="SortingTest.testEdgeCasesQuickSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionalTest - 2019.03.09 at 15h 21m 45s.xml">
-      <configuration name="FunctionalTest" configurationId="JUnit" />
+    <history-entry file="SortingTest_testEdgeCasesQuickSort - 2019.03.16 at 13h 32m 15s.xml">
+      <configuration name="SortingTest.testEdgeCasesQuickSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task3Test - 2019.03.10 at 10h 49m 42s.xml">
-      <configuration name="Task3Test" configurationId="JUnit" />
+    <history-entry file="SortingTest - 2019.03.16 at 13h 32m 43s.xml">
+      <configuration name="SortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task3Test - 2019.03.10 at 10h 50m 15s.xml">
-      <configuration name="Task3Test" configurationId="JUnit" />
+    <history-entry file="SortingTest - 2019.03.16 at 13h 47m 45s.xml">
+      <configuration name="SortingTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -545,7 +572,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2544" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.208" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.27946666" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -566,7 +593,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2496" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" weight="0.3296" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -619,273 +646,74 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/KursJava" />
     </ignored-roots>
+    <MESSAGE value="Task1 completed" />
+    <MESSAGE value="Task2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2 completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="board[0]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task2/T2.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="323">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Zadania_pseudo_kod.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Zadania_Schemat_NS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/pseudoKod.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingChecks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59772">
-          <caret line="3587" column="24" selection-start-line="3587" selection-start-column="24" selection-end-line="3587" selection-end-column="24" />
+        <state relative-caret-position="198">
+          <caret line="1241" column="23" selection-start-line="1241" selection-start-column="23" selection-end-line="1241" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/Pesel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task3/3_ZadaniaTablice.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/1_Zadania_collections.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/1_Zadania.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task3/T6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task2/T3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task2/2_Zadania_rekurencja.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/lambdas/d.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z8_17_02_2019/watki_thread/task1/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="53" selection-start-column="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/task1/QuickList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/zapisDoPliku/SaveToFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/zapisDoPliku/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/stolice.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/Kolo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/optionals/task1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/optionals/task1/NumberMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/lambda_and_stream/Lambdas/LambdaExmaple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/lambda_and_stream/Lambdas/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/GenericMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z7_16_02_2019/cwiczenia/task2/WordCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="69" column="10" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/lambda_and_stream/Lambdas/task1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/people.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/lambda_and_stream/Lambdas/task1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/lambda_and_stream/Lambdas/task1/PersonMenager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,116 +725,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T6/T6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/Kolo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="-313">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T6/PanstwoMiasto.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z6_10_02_2019/homework/task3/Waluta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z6_10_02_2019/homework/task3/Kantor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z6_10_02_2019/homework/task3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/data/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Zadania.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="255">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z8_17_02_2019/generic/GenericClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="629">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/Sorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z11_09_03_2019/lambdas/FunctionalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="90" column="54" selection-start-line="90" selection-start-column="54" selection-end-line="90" selection-end-column="54" />
+        <state relative-caret-position="44">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3580#3610#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z12_10_03_2019/Task3Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z10_03_03_2019/task1/1_Zadania.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/KalkulatorZKolejnoscia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="374">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task1/Stos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task2/Stos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="11" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
-            <element signature="e#1206#1207#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
-            <element signature="e#1298#1299#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="17">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="6" />
           <folding>
             <element signature="e#982#983#0" expanded="true" />
             <element signature="e#1020#1021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1021,35 +864,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/DoublyLinked/DoublyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Check.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Kolejka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="405">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#3022#3023#0" expanded="true" />
+            <element signature="e#3057#3058#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/1_Zadania_collections.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/KolkoIKrzyzyk/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/BankCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/CreditCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/DebitCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#1507#1508#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Employer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="initializer##0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="initializer##0;class#Main2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task1/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/Zadania.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
           <first_editor />
@@ -1057,32 +1051,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Ptak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="51">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/Task6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Ryba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z12_10_03_2019/KalkulatorZKolejnoscia.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Jedzenie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="187">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Pies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Osoba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Kot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/task2/Zwierze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
           </folding>
         </state>
       </provider>
