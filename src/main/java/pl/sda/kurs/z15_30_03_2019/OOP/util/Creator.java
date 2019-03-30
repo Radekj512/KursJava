@@ -10,7 +10,7 @@ import java.util.stream.IntStream;
 public class Creator {
 
     public static <T> T getOrNull(T t) {
-        return Math.random() > 0.5 ? t : null;
+        return Math.random() > 0 ? t : null;
     }
 
     public static World getWorld() {

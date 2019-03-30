@@ -36,4 +36,15 @@ public class Person {
     public Gender getGender() {
         return gender;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "age=" + age +
+                ", salary=" + salary +
+                ", firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", gender=" + gender +
+                '}';
+    }
 }

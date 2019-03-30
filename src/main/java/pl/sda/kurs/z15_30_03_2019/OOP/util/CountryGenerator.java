@@ -3,6 +3,9 @@ package pl.sda.kurs.z15_30_03_2019.OOP.util;
 import pl.sda.kurs.z15_30_03_2019.OOP.City;
 import pl.sda.kurs.z15_30_03_2019.OOP.Country;
 
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Collections;
 import java.util.List;
 
@@ -23,6 +26,8 @@ public class CountryGenerator {
     }
 
     private static List<City> getRandomCityList() {
+
+
         return Collections.emptyList();
     }
 
