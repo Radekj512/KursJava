@@ -2,7 +2,6 @@ package pl.sda.kurs.z8_17_02_2019.generic.task1;
 
 import java.util.ArrayList;
 
-import java.util.Arrays;
 import java.util.List;
 
 public class QuickList<T> {
