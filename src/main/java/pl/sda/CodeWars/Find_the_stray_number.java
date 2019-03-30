@@ -5,12 +5,12 @@ public class Find_the_stray_number {
 
         for (int i = 0; i < numbers.length; i++) {
             int counter = 0;
-                for (int j = 0; j < numbers.length; j++){
-                    if (numbers[i] == numbers[j]){
-                        counter++;
-                    }
+            for (int j = 0; j < numbers.length; j++) {
+                if (numbers[i] == numbers[j]) {
+                    counter++;
                 }
-                if (counter == 0 ) return numbers[i];
+            }
+            if (counter == 0) return numbers[i];
         }
         return 0;
     }
