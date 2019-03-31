@@ -36,9 +36,9 @@ public class CountryGenerator {
         Random r = new Random();
         List<City> cityList = new ArrayList<>();
         int cityMin = 10;
-        int cityMax = 10;
+        int cityMax = 100;
         int citiesNumber = cityMin + r.nextInt(cityMax);
-        System.out.println("nowe panstwo z: " + citiesNumber + " miastami");
+        System.out.println("Nowe panstwo które ma " + citiesNumber + " miast");
         for (int i = 0 ; i< citiesNumber; i++){
             cityList.add(cg.getrandomCity());
         }

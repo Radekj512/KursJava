@@ -18,6 +18,7 @@ public class GsonTest {
         s.start();
         Path worldJson = Paths.get("src", "main", "java", "pl", "sda", "kurs", "z15_30_03_2019", "IO", "data", "world.json");
         Files.write(worldJson, Collections.singleton(gson.toJson(Creator.getWorld())));
+        //System.out.println(gson.toJson(Creator.getWorld()));
         s.stop();
         System.out.println("Zapisano do pliku w " + s.getTime());
 

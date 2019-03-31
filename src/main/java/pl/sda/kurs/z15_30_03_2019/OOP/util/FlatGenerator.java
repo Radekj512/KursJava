@@ -8,6 +8,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 import static pl.sda.kurs.z15_30_03_2019.OOP.util.Creator.getOrNull;
 
@@ -26,7 +28,7 @@ public class FlatGenerator {
         double rangeMin = 30;
         double rangeMax = 150;
         double randomValue = rangeMin + (rangeMax - rangeMin) * r.nextDouble();
-        return randomValue;
+        return Math.round(randomValue);
     }
 
     private List<Person> getRandomPeopleList() throws IOException {
@@ -34,6 +36,18 @@ public class FlatGenerator {
         Random ran = new Random();
         int peopleListSize = 1 + ran.nextInt(4);
         List<Person> randomPeopleList = new ArrayList<>();
+        //System.out.println("Nowie mieszkanie z " + peopleListSize + "lokatorami");
+        /*IntStream.rangeClosed(0,peopleListSize).parallel()
+                .mapToObj(i-> {
+                    try {
+                        randomPeopleList.add(randomPerson.getRandomPerson());
+                    } catch (IOException e) {
+                        e.printStackTrace();
+
+                    }
+                    return null;
+                })
+                .collect(Collectors.toList());*/
         for (int i = 0; i < peopleListSize; i++){
                 randomPeopleList.add(randomPerson.getRandomPerson());
         }

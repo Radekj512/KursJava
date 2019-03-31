@@ -12,6 +12,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 import static pl.sda.kurs.z15_30_03_2019.OOP.util.Creator.getOrNull;
 
@@ -32,11 +33,20 @@ public class CityGenerator {
         int maxNumberOfFlats = 30;
         int numerOfFlats = minNumberOfFlats + ran.nextInt(maxNumberOfFlats);
         FlatGenerator fg = new FlatGenerator();
-        System.out.println("liczba mieszkan: " + numerOfFlats);
+        System.out.println("\t\tNowe miasto które ma: " + numerOfFlats + " mieszkań");
         List<Flat> flatList = new ArrayList<>();
-        for (int i = 0; i < numerOfFlats; i++) {
+        IntStream.rangeClosed(0,numerOfFlats).parallel()
+                .mapToObj(i -> {
+                    try {
+                        return flatList.add(fg.getRandomFlat());
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                    return null;
+                });
+        /*for (int i = 0; i < numerOfFlats; i++) {
             flatList.add(fg.getRandomFlat());
-        }
+        }*/
 
         return flatList;
     }
