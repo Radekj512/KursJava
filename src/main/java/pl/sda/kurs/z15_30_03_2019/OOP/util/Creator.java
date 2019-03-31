@@ -3,6 +3,7 @@ package pl.sda.kurs.z15_30_03_2019.OOP.util;
 import pl.sda.kurs.z15_30_03_2019.OOP.Country;
 import pl.sda.kurs.z15_30_03_2019.OOP.World;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -18,8 +19,15 @@ public class Creator {
     }
 
     private static List<Country> getRandomCountryList() {
-        return IntStream.rangeClosed(0, 40)
-                .mapToObj(i -> CountryGenerator.getRandomCountry())
+        return IntStream.rangeClosed(0, 40).parallel()
+                .mapToObj(i -> {
+                    try {
+                        return CountryGenerator.getRandomCountry();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                        return null;
+                    }
+                })
                 .collect(Collectors.toList());
     }
 }

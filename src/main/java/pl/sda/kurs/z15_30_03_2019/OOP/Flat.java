@@ -19,4 +19,12 @@ public class Flat {
     public List<Person> getPeople() {
         return people;
     }
+
+    @Override
+    public String toString() {
+        return "Flat{" +
+                "area=" + area +
+                ", people=" + people +
+                '}';
+    }
 }

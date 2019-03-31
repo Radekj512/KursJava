@@ -2,26 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902e181e-7404-43b4-900f-6c45361d3045" name="Default Changelist" comment="Task2 completed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/ENUMS/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/ENUMS/MyEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/CitySplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/cities.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/miasta.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/OOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/Time/Zadania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsonSchemas.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Flat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Flat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CityGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CityGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CountryGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CountryGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/Creator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/PersonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/PersonGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/Generics/GenericsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/Generics/GenericsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/Flat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/Flat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/CityGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/CityGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/CountryGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/CountryGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/Creator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/Creator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/PersonGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/OOP/util/PersonGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/Time/TimeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/Time/TimeExample.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,63 +38,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/CitySplit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/PersonGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-              <folding>
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state relative-caret-position="221">
+              <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CityGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="306">
+              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,24 +64,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CountryGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="493">
+              <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#811#812#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/World.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1223">
-              <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,12 +97,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/Creator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="187">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="319" column="10" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="319" selection-end-column="10" />
+              <folding>
+                <element signature="e#273042#458865#0" />
+                <element signature="e#458871#633513#0" />
+                <element signature="e#633519#983472#0" />
               </folding>
             </state>
           </provider>
@@ -165,6 +133,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>City</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -201,9 +172,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/Wielowatkowosc/ConcurrencyExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/Wielowatkowosc/AtomDataHolder.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/CodeWars/Find_the_stray_number.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/City.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Country.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Flat.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Gender.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/World.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/Functional/Functional.java" />
@@ -217,15 +185,18 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/ENUMS/MyEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/ENUMS/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CityGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CountryGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/CitySplit.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/Creator.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/PersonGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Flat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/City.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Country.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CountryGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CityGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/Creator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json" />
       </list>
     </option>
   </component>
@@ -266,8 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -495,11 +464,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553957864786" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554035173724" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last.edited.regexp" value="Ala ma kkota&#10;asd&#10;,asd&#10;,,adsd3,&#10;" />
@@ -541,13 +512,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PersonGenerator">
-    <configuration name="CitySplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z15_30_03_2019.IO.data.CitySplit" />
+  <component name="RunManager" selected="Application.GsonTest">
+    <configuration name="CityGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z15_30_03_2019.OOP.util.CityGenerator" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z15_30_03_2019.IO.data.*" />
+          <option name="PATTERN" value="pl.sda.kurs.z15_30_03_2019.OOP.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -555,12 +526,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z15_30_03_2019.Generics.GenericsExample" />
+    <configuration name="CountryGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z15_30_03_2019.OOP.util.CountryGenerator" />
       <module name="KursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z15_30_03_2019.Generics.*" />
+          <option name="PATTERN" value="pl.sda.kurs.z15_30_03_2019.OOP.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z15_30_03_2019.OOP.util.FlatGenerator" />
+      <module name="KursJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.kurs.z15_30_03_2019.OOP.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -594,26 +578,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.kurs.z15_30_03_2019.Exceptions.ThrowableExample" />
-      <module name="KursJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.sda.kurs.z15_30_03_2019.Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonGenerator" />
         <item itemvalue="Application.GsonTest" />
-        <item itemvalue="Application.CitySplit" />
-        <item itemvalue="Application.ThrowableExample" />
-        <item itemvalue="Application.GenericsExample" />
+        <item itemvalue="Application.CountryGenerator" />
+        <item itemvalue="Application.CityGenerator" />
+        <item itemvalue="Application.FlatGenerator" />
+        <item itemvalue="Application.PersonGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -690,7 +661,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49757674" visible="true" weight="0.21013333" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49757674" visible="true" weight="0.21653333" />
       <window_info id="Structure" order="1" sideWeight="0.5024233" side_tool="true" weight="0.21013333" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -700,11 +671,11 @@
       <window_info id="Favorites" order="7" sideWeight="0.50080776" side_tool="true" weight="0.27946666" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49973333" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49973333" weight="0.40520042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49653333" weight="0.3347779" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50346667" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49813333" weight="0.32936078" />
@@ -776,45 +747,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/CodeWars/Find_the_stray_number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/Wielowatkowosc/Adder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Flat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -889,13 +821,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/stolice.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/OOP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z11_09_03_2019/task1/T6/PanstwoMiasto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -956,13 +881,6 @@
         <state split_layout="SECOND">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Gender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1053,9 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/miasta.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/cities.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1066,24 +981,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/World.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1223">
-          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/countriesAndCapitals.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="510">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1097,20 +1006,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Flat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/miasta.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/countriesAndCapitals.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/jvm/hello.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/PersonGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="127" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Country.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state relative-caret-position="350">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/OOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/GsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1119,8 +1090,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CityGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="306">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1129,52 +1100,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/CountryGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="493">
+          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/World.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/FlatGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
           <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/Creator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="289">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/OOP/util/PersonGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z15_30_03_2019/IO/data/world.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="459">
+          <caret line="144" column="43" lean-forward="true" selection-start-line="144" selection-start-column="43" selection-end-line="144" selection-end-column="43" />
         </state>
       </provider>
     </entry>

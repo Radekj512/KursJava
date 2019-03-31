@@ -7,7 +7,6 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
@@ -31,16 +30,16 @@ public class PersonGenerator {
 
 
     private String getLastName() throws IOException {
-        Path pathLastName = Paths.get("src","main","java","pl","sda","kurs","z15_30_03_2019","IO","data","names.txt");
-        List<String> lastNames = new ArrayList<>();
-         lastNames = Files.lines(pathLastName).parallel().collect(Collectors.toList());
-         Random r = new Random();
-         return lastNames.get(r.nextInt(lastNames.size()));
+        Path pathLastName = Paths.get("src", "main", "java", "pl", "sda", "kurs", "z15_30_03_2019", "IO", "data", "names.txt");
+        List<String> lastNames;
+        lastNames = Files.lines(pathLastName).parallel().collect(Collectors.toList());
+        Random r = new Random();
+        return lastNames.get(r.nextInt(lastNames.size()));
     }
 
     private String getFirstName() throws IOException {
-        Path name = Paths.get("src","main","java","pl","sda","kurs","z15_30_03_2019","IO","data","first-names.txt");
-        List<String> names = new ArrayList<>();
+        Path name = Paths.get("src", "main", "java", "pl", "sda", "kurs", "z15_30_03_2019", "IO", "data", "first-names.txt");
+        List<String> names;
         names = Files.lines(name).parallel().collect(Collectors.toList());
         Random r = new Random();
         return names.get(r.nextInt(names.size()));
@@ -55,12 +54,6 @@ public class PersonGenerator {
         Random r = new Random();
         return 1000 + r.nextInt(2000);
 
-    }
-
-    public static void main(String[] args) throws IOException {
-        PersonGenerator pg = new PersonGenerator();
-        Person p = pg.getRandomPerson();
-        System.out.println(p);
     }
 
 }

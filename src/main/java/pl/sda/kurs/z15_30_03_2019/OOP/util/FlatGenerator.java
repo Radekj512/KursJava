@@ -13,7 +13,7 @@ import static pl.sda.kurs.z15_30_03_2019.OOP.util.Creator.getOrNull;
 
 public class FlatGenerator {
 
-    Flat getRandomFlat() {
+    Flat getRandomFlat() throws IOException {
         return getOrNull(
                 new Flat(getRandomArea(),
                         getRandomPeopleList()
@@ -29,18 +29,20 @@ public class FlatGenerator {
         return randomValue;
     }
 
-    private List<Person> getRandomPeopleList() {
+    private List<Person> getRandomPeopleList() throws IOException {
         PersonGenerator randomPerson = new PersonGenerator();
         Random ran = new Random();
-        int peopleListSize = 1 + ran.nextInt(6);
+        int peopleListSize = 1 + ran.nextInt(4);
         List<Person> randomPeopleList = new ArrayList<>();
         for (int i = 0; i < peopleListSize; i++){
-            try {
                 randomPeopleList.add(randomPerson.getRandomPerson());
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
         }
         return randomPeopleList;
+    }
+
+    public static void main(String[] args) throws IOException {
+        FlatGenerator f = new FlatGenerator();
+        Flat flat = f.getRandomFlat();
+        System.out.println(flat);
     }
 }

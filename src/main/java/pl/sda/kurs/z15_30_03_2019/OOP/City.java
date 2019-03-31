@@ -19,4 +19,12 @@ public class City {
     public List<Flat> getFlats() {
         return flats;
     }
+
+    @Override
+    public String toString() {
+        return "City{" +
+                "name='" + name + '\'' +
+                ", flats=" + flats +
+                '}';
+    }
 }
