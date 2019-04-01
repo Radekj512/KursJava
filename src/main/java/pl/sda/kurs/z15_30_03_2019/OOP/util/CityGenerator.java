@@ -8,7 +8,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
@@ -29,13 +28,13 @@ public class CityGenerator {
 
     private List<Flat> getListOfFlats() throws IOException {
         Random ran = new Random();
-        int minNumberOfFlats = 10;
-        int maxNumberOfFlats = 30;
+        int minNumberOfFlats = 20;
+        int maxNumberOfFlats = 50;
         int numerOfFlats = minNumberOfFlats + ran.nextInt(maxNumberOfFlats);
         FlatGenerator fg = new FlatGenerator();
         System.out.println("\t\tNowe miasto które ma: " + numerOfFlats + " mieszkań");
         List<Flat> flatList = new ArrayList<>();
-        IntStream.rangeClosed(0,numerOfFlats).parallel()
+        IntStream.range(1,numerOfFlats)
                 .mapToObj(i -> {
                     try {
                         return flatList.add(fg.getRandomFlat());
@@ -43,7 +42,7 @@ public class CityGenerator {
                         e.printStackTrace();
                     }
                     return null;
-                });
+                }).collect(Collectors.toList());;
         /*for (int i = 0; i < numerOfFlats; i++) {
             flatList.add(fg.getRandomFlat());
         }*/

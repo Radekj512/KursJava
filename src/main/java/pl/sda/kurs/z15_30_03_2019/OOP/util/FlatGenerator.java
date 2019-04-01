@@ -37,7 +37,7 @@ public class FlatGenerator {
         int peopleListSize = 1 + ran.nextInt(4);
         List<Person> randomPeopleList = new ArrayList<>();
         //System.out.println("Nowie mieszkanie z " + peopleListSize + "lokatorami");
-        /*IntStream.rangeClosed(0,peopleListSize).parallel()
+        IntStream.range(0,peopleListSize)
                 .mapToObj(i-> {
                     try {
                         randomPeopleList.add(randomPerson.getRandomPerson());
@@ -46,11 +46,11 @@ public class FlatGenerator {
 
                     }
                     return null;
-                })
-                .collect(Collectors.toList());*/
-        for (int i = 0; i < peopleListSize; i++){
+                }).collect(Collectors.toList());;
+
+        /*for (int i = 0; i < peopleListSize; i++){
                 randomPeopleList.add(randomPerson.getRandomPerson());
-        }
+        }*/
         return randomPeopleList;
     }
 

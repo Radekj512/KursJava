@@ -19,7 +19,7 @@ public class Creator {
     }
 
     private static List<Country> getRandomCountryList() {
-        return IntStream.rangeClosed(0, 5)
+        return IntStream.rangeClosed(0, 20)
                 .mapToObj(i -> {
                     try {
                         return CountryGenerator.getRandomCountry();
