@@ -15,7 +15,6 @@ public class MoneySavingCalculator {
                 for (int i = 0; i < numberOfDays; i++){
                     ammount = ammount.add(singleAmmount);
                 }
-
                 break;
             case EACH_WEEK:
                 int numberOfWeeks = new PeriodConverter(duration).getDays()/7;
@@ -47,10 +46,7 @@ public class MoneySavingCalculator {
                     ammount = ammount.add(singleAmmount);
                 }
                 break;
-
         }
-
-
         return ammount;
     }
 }

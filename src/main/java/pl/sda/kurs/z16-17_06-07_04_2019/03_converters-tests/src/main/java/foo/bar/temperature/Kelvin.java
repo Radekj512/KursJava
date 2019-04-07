@@ -17,8 +17,12 @@ public class Kelvin implements TemperatureUnit {
         return value;
     }
 
-    public Fahrenheit toFahrentheit(){
-        return new Fahrenheit()
+    public Fahrenheit toFahrentheit() {
+        return new Fahrenheit(value.multiply(new BigDecimal(1.8)).subtract(KELVIN_TO_FAHRENHEIT));
+    }
+
+    public Celsius toCelsius() {
+        return new Celsius(value.subtract(KELVIN_TO_CELSIUS));
     }
 }
 // todo -> dokoncz

@@ -27,9 +27,9 @@ public class Weather {
     @Override
     public String toString() {
         return "Weather{" +
-                "temprature=" + temprature + " C " +
-                ", windSpeed=" + windSpeed + " km/h " +
-                ", rainfall=" + rainfall + " mm/day " +
+                "temprature = " + temprature + " C" +
+                ", windSpeed = " + windSpeed + " km/h" +
+                ", rainfall = " + rainfall + " mm/day" +
                 '}';
     }
 }

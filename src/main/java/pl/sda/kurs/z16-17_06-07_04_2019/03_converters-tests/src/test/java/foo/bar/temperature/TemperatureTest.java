@@ -44,6 +44,24 @@ public class TemperatureTest {
         Assertions.assertEquals(new BigDecimal(expected).setScale(2, RoundingMode.HALF_UP), new Fahrenheit(new BigDecimal(a)).toCelsius().getValue().setScale(2, RoundingMode.HALF_UP));
     }
 
+    @ParameterizedTest(name = "{0} Kelvin  should be {1} fahrenheit")
+    @CsvSource({
+            "0, -459.67",
+            "1000, 1340.33",
+    })
+    void kelvinToFahrenheit(double a, double expected){
+        Assertions.assertEquals(new BigDecimal(expected).setScale(2, RoundingMode.HALF_UP), new Kelvin(new BigDecimal(a)).toFahrentheit().getValue().setScale(2, RoundingMode.HALF_UP));
+    }
+
+    @ParameterizedTest(name = "{0} Kelvin  should be {1} celcius degree")
+    @CsvSource({
+            "0, -273.15",
+            "1000, 726.85",
+    })
+    void kelvinToCelcius(double a, double expected){
+        Assertions.assertEquals(new BigDecimal(expected).setScale(2, RoundingMode.HALF_UP), new Kelvin(new BigDecimal(a)).toCelsius().getValue().setScale(2, RoundingMode.HALF_UP));
+    }
+
 
 
 }
