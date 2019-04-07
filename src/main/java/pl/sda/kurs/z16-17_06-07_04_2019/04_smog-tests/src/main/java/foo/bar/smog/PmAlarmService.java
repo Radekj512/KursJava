@@ -5,21 +5,21 @@ public class PmAlarmService {
     public PmAlarmService() { }
 
     public AlarmLevel getAlarmMessage(int measurement, Country country) {
+        AlarmLevel alarmLevel;
         switch (country) {
             case ITALY:
-                break;
+                alarmLevel = new ItalyAlarmLevel(measurement).getAlarmLevel();
+                return alarmLevel;
             case FINLAND:
-                break;
+                alarmLevel = new FinlandAlarmLevel(measurement).getAlarmLevel();
+                return alarmLevel;
             case FRANCE:
-                break;
+                alarmLevel = new FranceAlarmLevel(measurement).getAlarmLevel();
+                return alarmLevel;
             case POLAND:
-                if (measurement > 0 && measurement < 200 ) {
-                    return AlarmLevel.NONE;
-                } else if(measurement < 300) {
-                    return AlarmLevel.INFO;
-                } else {
-                    return AlarmLevel.WARNING;
-                }
+                alarmLevel = new PolandAlarmLevel(measurement).getAlarmLevel();
+                return alarmLevel;
+
         }
         return AlarmLevel.NONE;
     }

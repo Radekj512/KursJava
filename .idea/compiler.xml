@@ -6,7 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="calculator-tests" />
+        <module name="converters-tests" />
+        <module name="coverage-tests" />
+        <module name="figures-tests" />
+        <module name="first-integration-tests" />
         <module name="KursJava" />
+        <module name="smog-tests" />
+        <module name="tdd-tests" />
       </profile>
     </annotationProcessing>
   </component>

@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>foo.bar</groupId>
-        <artifactId>unit-testing-sda</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <groupId>pl.sda.javakurs</groupId>
+        <artifactId>KursJava</artifactId>
+        <version>1.0-SNAPSHOT</version>>
     </parent>
     <artifactId>coverage-tests</artifactId>
     <name>coverage-tests</name>
