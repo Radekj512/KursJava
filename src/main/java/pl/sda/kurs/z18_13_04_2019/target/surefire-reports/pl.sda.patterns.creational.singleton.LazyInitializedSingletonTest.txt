@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.sda.patterns.creational.singleton.LazyInitializedSingletonTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0 sec - in pl.sda.patterns.creational.singleton.LazyInitializedSingletonTest

@@ -12,6 +12,7 @@
         <module name="figures-tests" />
         <module name="first-integration-tests" />
         <module name="KursJava" />
+        <module name="patterns-buster" />
         <module name="smog-tests" />
         <module name="tdd-tests" />
       </profile>
