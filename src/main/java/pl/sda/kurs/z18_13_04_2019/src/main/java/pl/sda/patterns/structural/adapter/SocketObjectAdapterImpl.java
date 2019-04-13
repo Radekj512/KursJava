@@ -16,7 +16,7 @@ public class SocketObjectAdapterImpl implements SocketAdapter {
 
     @Override
     public Volt get3Volt() {
-        return null;
+        return new Volt(3);
 
     }
 
