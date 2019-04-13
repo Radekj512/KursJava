@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902e181e-7404-43b4-900f-6c45361d3045" name="Default Changelist" comment="Task2 completed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/CellState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/src/main/java/foo/bar/temperature/Kelvin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/src/main/java/foo/bar/temperature/Kelvin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/src/test/java/foo/bar/temperature/TemperatureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/src/test/java/foo/bar/temperature/TemperatureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/target/classes/foo/bar/temperature/Fahrenheit.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/target/classes/foo/bar/temperature/Fahrenheit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/target/classes/foo/bar/temperature/Kelvin.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/target/classes/foo/bar/temperature/Kelvin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/target/test-classes/foo/bar/temperature/TemperatureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/target/test-classes/foo/bar/temperature/TemperatureTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/05_coverage-tests/src/main/java/foo/bar/MoneySavingCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/05_coverage-tests/src/main/java/foo/bar/MoneySavingCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/05_coverage-tests/src/test/java/foo/bar/MoneySavingCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/05_coverage-tests/src/test/java/foo/bar/MoneySavingCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/05_coverage-tests/target/test-classes/foo/bar/MoneySavingCalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/05_coverage-tests/target/test-classes/foo/bar/MoneySavingCalculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/src/main/java/foo/bar/meteorology/weather/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/src/main/java/foo/bar/meteorology/weather/Weather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/src/main/java/foo/bar/meteorology/weather/alarm/WeatherAlarmNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/src/main/java/foo/bar/meteorology/weather/alarm/WeatherAlarmNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/src/test/java/foo/bar/meteorology/weather/WeatherServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/src/test/java/foo/bar/meteorology/weather/WeatherServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/src/test/java/foo/bar/meteorology/weather/alarm/WeatherAlarmNotifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/src/test/java/foo/bar/meteorology/weather/alarm/WeatherAlarmNotifierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/07_tdd-tests/src/main/java/foo/bar/bowling/BowlingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/07_tdd-tests/src/main/java/foo/bar/bowling/BowlingGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/07_tdd-tests/src/test/java/foo/bar/bowling/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/07_tdd-tests/src/test/java/foo/bar/bowling/BowlingGameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z11_09_03_2019/lambdas/FunctionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z11_09_03_2019/lambdas/FunctionalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sda/kurs/z11_09_03_2019/lambdas/FunctionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sda/kurs/z11_09_03_2019/lambdas/FunctionalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,23 +35,15 @@
     <favorites_list name="KursJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Cell.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="306">
               <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,11 +52,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
+            <state relative-caret-position="311">
               <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
               <folding>
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
                 <element signature="e#838#839#0" expanded="true" />
               </folding>
             </state>
@@ -100,12 +67,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -250,7 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,245 +272,6 @@
               <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="sda" type="462c0819:PsiDirectoryNode" />
               <item name="kurs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z14_17_03_2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z14_17_03_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="TicTakToe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="01_calculator-tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="01_calculator-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="01_calculator-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="01_calculator-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="01_calculator-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="foo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="01_calculator-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="foo" type="462c0819:PsiDirectoryNode" />
-              <item name="bar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="04_smog-tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="04_smog-tests" type="462c0819:PsiDirectoryNode" />
-              <item name=".img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="04_smog-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="04_smog-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="04_smog-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="04_smog-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="foo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="04_smog-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="foo" type="462c0819:PsiDirectoryNode" />
-              <item name="bar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="kurs" type="462c0819:PsiDirectoryNode" />
-              <item name="z16-17_06-07_04_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="04_smog-tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="foo" type="462c0819:PsiDirectoryNode" />
-              <item name="bar" type="462c0819:PsiDirectoryNode" />
-              <item name="smog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KursJava" type="b2602c69:ProjectViewProjectNode" />
@@ -643,12 +364,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554645201040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555140399276" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last.edited.regexp" value="Ala ma kkota&#10;asd&#10;,asd&#10;,,adsd3,&#10;" />
@@ -657,7 +379,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -844,9 +566,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49757674" visible="true" weight="0.2563966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49757674" visible="true" weight="0.2592" />
       <window_info id="Structure" order="1" sideWeight="0.5024233" side_tool="true" weight="0.21013333" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -856,16 +577,15 @@
       <window_info id="Favorites" order="7" sideWeight="0.50080776" side_tool="true" weight="0.27946666" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49973333" visible="true" weight="0.40520042" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49973333" weight="0.40520042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49653333" weight="0.3347779" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49653333" visible="true" weight="0.3347779" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50346667" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49813333" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2496" />
@@ -875,6 +595,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Key Promoter X" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -920,6 +641,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/KursJava" />
+      <path value="$PROJECT_DIR$/unit-testing-sda" />
     </ignored-roots>
     <MESSAGE value="Task1 completed" />
     <MESSAGE value="Task2 completed" />
@@ -1203,41 +925,11 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/integration-tests-theory/.images/14.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/GameOfLife/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/GameOfLife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/BoardRender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/BoardRenerer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Console.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/GameOfLife/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/GameOfLife.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/BoardRender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/BoardRenerer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Console.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
@@ -1245,16 +937,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z13_16_03_2019/algoritms/sorting/SortingTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/sda/kurs/z11_09_03_2019/lambdas/FunctionalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1286,45 +969,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/CellState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Cell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z14_17_03_2019/TicTakToe/TicTacToe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-434">
@@ -1332,13 +976,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/CellState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/GameOfLife/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
+        <state relative-caret-position="311">
           <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
           <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
             <element signature="e#838#839#0" expanded="true" />
           </folding>
         </state>
