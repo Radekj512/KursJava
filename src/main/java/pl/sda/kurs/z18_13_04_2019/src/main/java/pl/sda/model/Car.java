@@ -8,9 +8,24 @@ public abstract class Car implements Driveable, Cloneable {
     private String color;
     private Year productionYear;
 
+    public Car() {
+    }
+
     public Car(int door, String color, Year productionYear) {
         this.door = door;
         this.color = color;
+        this.productionYear = productionYear;
+    }
+
+    public void setDoor(int door) {
+        this.door = door;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+    public void setProductionYear(Year productionYear) {
         this.productionYear = productionYear;
     }
 

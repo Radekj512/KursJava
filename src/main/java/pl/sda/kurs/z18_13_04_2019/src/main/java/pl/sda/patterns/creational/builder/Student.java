@@ -32,4 +32,51 @@ public class Student {
         this.birthDayOfWeek = birthDayOfWeek;
         this.scholarship = scholarship;
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", pesel='" + pesel + '\'' +
+                ", birthYear=" + birthYear +
+                ", birthMonth=" + birthMonth +
+                ", birthDayOfWeek=" + birthDayOfWeek +
+                ", scholarship=" + scholarship +
+                '}';
+    }
+
+    public Student() {
+    }
+
+    public static class StudentBuilder{
+        private String firstName;
+        private String lastName;
+        private String pesel;
+        private Year birthYear;
+
+        //Optional Parameters
+        private Month birthMonth;
+        private DayOfWeek birthDayOfWeek;
+        private Boolean scholarship;
+
+        public StudentBuilder firstName(String name){
+            this.firstName = name;
+            return this;
+        }
+        public StudentBuilder latsName(String lastName){
+            this.lastName = lastName;
+            return this;
+        }
+        public StudentBuilder pesel(String pesel){
+            this.pesel = pesel;
+            return this;
+        }
+        public Student build(){
+            return new Student(firstName, lastName, pesel, birthYear, birthMonth, birthDayOfWeek, scholarship);
+        }
+    }
+    public static StudentBuilder builder(){
+        return new StudentBuilder();
+    }
 }

@@ -12,4 +12,5 @@ public class EagerInitializedSingleton {
     public static PropertyLoader getInstance() {
         return instance;
     }
+
 }

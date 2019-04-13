@@ -5,7 +5,7 @@ import spock.lang.Specification
 
 class StaticBlockSingletonTest extends Specification {
 
-    @PendingFeature
+   // @PendingFeature
     def "Should return singleton instance of PropertyLoader class"() {
 
         when:

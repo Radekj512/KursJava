@@ -5,7 +5,7 @@ import spock.lang.Specification
 
 class EagerInitializedSingletonTest extends Specification {
 
-    @PendingFeature
+
     def "Should return singleton instance of PropertyLoader class"() {
 
         when:
