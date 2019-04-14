@@ -1,4 +1,9 @@
 package pl.sda.patterns.behavioral.observer;
 
-public class Producer {
+
+import java.util.Observable;
+
+//observable
+public class Producer extends Observable {
+
 }
