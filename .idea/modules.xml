@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/01_calculator-tests/calculator-tests.iml" filepath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/01_calculator-tests/calculator-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/converters-tests.iml" filepath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/03_converters-tests/converters-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/05_coverage-tests/coverage-tests.iml" filepath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/05_coverage-tests/coverage-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/02_figures-tests/figures-tests.iml" filepath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/02_figures-tests/figures-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/first-integration-tests.iml" filepath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/06_first-integration-tests/first-integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z18_13_04_2019/patterns-buster.iml" filepath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z18_13_04_2019/patterns-buster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/04_smog-tests/smog-tests.iml" filepath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/04_smog-tests/smog-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/07_tdd-tests/tdd-tests.iml" filepath="$PROJECT_DIR$/src/main/java/pl/sda/kurs/z16-17_06-07_04_2019/07_tdd-tests/tdd-tests.iml" />
+    </modules>
+  </component>
+</project>

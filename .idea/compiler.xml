@@ -9,5 +9,15 @@
         <module name="KursJava" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="calculator-tests" target="1.8" />
+      <module name="converters-tests" target="1.8" />
+      <module name="coverage-tests" target="1.8" />
+      <module name="figures-tests" target="1.8" />
+      <module name="first-integration-tests" target="1.8" />
+      <module name="patterns-buster" target="8" />
+      <module name="smog-tests" target="1.8" />
+      <module name="tdd-tests" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
