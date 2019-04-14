@@ -1,12 +1,14 @@
 package pl.sda.kurs.z11_09_03_2019.lambdas;
 
+
 import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.List;
 
-import static org.junit.Assert.assertEquals;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 public class FunctionalTest {

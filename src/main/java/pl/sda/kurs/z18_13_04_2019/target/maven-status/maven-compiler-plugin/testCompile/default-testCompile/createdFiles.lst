@@ -1,0 +1,16 @@
+pl\sda\patterns\structural\proxy\OfficeTest.class
+pl\sda\patterns\behavioral\iterator\IntegerBoxTest.class
+pl\sda\patterns\structural\adapter\SocketAdapterConverterTest.class
+pl\sda\patterns\behavioral\templatemethod\BootcampCourseTest.class
+pl\sda\patterns\behavioral\visitor\ProfessionTest.class
+pl\sda\patterns\behavioral\chainofresponsibility\ChainTest.class
+pl\sda\patterns\behavioral\interpreter\ContextTest.class
+pl\sda\patterns\behavioral\decorator\DecoratorTest.class
+pl\sda\patterns\behavioral\memento\CsvReaderCaretakerTest.class
+pl\sda\patterns\structural\bridge\ShapeTest.class
+pl\sda\patterns\structural\facade\WashingFacadeTest.class
+pl\sda\patterns\creational\builder\StudentTest.class
+pl\sda\patterns\behavioral\state\JiraIssueContextTest.class
+pl\sda\patterns\behavioral\strategy\ShoppingCartTest.class
+pl\sda\patterns\creational\factory\TheBestCarmakerTest.class
+pl\sda\patterns\structural\composite\CarRentalTest.class

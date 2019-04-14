@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>pl.sda.patterns.structural.proxy</OriginalElement>
+  <nodes>
+    <node x="261.0" y="123.0">pl.sda.patterns.structural.proxy.Worker</node>
+    <node x="532.0" y="247.0">pl.sda.patterns.structural.proxy.Regular</node>
+    <node x="351.0" y="247.0">pl.sda.patterns.structural.proxy.Senior</node>
+    <node x="178.0" y="247.0">pl.sda.patterns.structural.proxy.Boss</node>
+    <node x="0.0" y="281.0">pl.sda.patterns.structural.proxy.Junior</node>
+    <node x="224.0" y="411.0">pl.sda.patterns.structural.proxy.OfficeTest</node>
+    <node x="0.0" y="411.0">pl.sda.patterns.structural.proxy.Office</node>
+    <node x="256.0" y="0.0">pl.sda.patterns.structural.proxy.ReadyToMakeCoffee</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="pl.sda.patterns.structural.proxy.Worker" target="pl.sda.patterns.structural.proxy.ReadyToMakeCoffee">
+      <point x="0.0" y="-37.0" />
+      <point x="0.0" y="36.5" />
+    </edge>
+    <edge source="pl.sda.patterns.structural.proxy.Regular" target="pl.sda.patterns.structural.proxy.Worker">
+      <point x="0.0" y="-59.5" />
+      <point x="614.5" y="217.0" />
+      <point x="404.5" y="217.0" />
+      <point x="61.5" y="37.0" />
+    </edge>
+    <edge source="pl.sda.patterns.structural.proxy.Senior" target="pl.sda.patterns.structural.proxy.Worker">
+      <point x="0.0" y="-59.5" />
+      <point x="431.5" y="227.0" />
+      <point x="363.5" y="227.0" />
+      <point x="20.5" y="37.0" />
+    </edge>
+    <edge source="pl.sda.patterns.structural.proxy.Junior" target="pl.sda.patterns.structural.proxy.Worker">
+      <point x="0.0" y="-25.5" />
+      <point x="79.0" y="217.0" />
+      <point x="281.5" y="217.0" />
+      <point x="-61.5" y="37.0" />
+    </edge>
+    <edge source="pl.sda.patterns.structural.proxy.Boss" target="pl.sda.patterns.structural.proxy.Worker">
+      <point x="0.0" y="-59.5" />
+      <point x="254.5" y="227.0" />
+      <point x="322.5" y="227.0" />
+      <point x="-20.5" y="37.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="204.0" y="131.0" />
+  <SelectedNodes>
+    <node>pl.sda.patterns.structural.proxy.Worker</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
