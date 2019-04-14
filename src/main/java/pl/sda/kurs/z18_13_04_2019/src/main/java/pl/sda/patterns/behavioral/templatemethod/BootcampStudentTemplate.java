@@ -3,6 +3,7 @@ package pl.sda.patterns.behavioral.templatemethod;
 //TODO write junior and senior template
 //TODO write test
 public abstract class BootcampStudentTemplate {
+
     public final void completeTheCourse() {
         learnGit();
         learnSpring();

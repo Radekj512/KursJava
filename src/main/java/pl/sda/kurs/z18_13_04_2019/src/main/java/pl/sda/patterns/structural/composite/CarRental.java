@@ -16,14 +16,14 @@ class CarRental {
     }
 
     void addCar(Car car) {
-
+        list.add(car);
     }
 
     void destroyCar(Car car) {
-
+        list.remove(car);
     }
 
     void destroyAll() {
-
+        list.clear();
     }
 }
